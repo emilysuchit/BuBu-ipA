@@ -1,0 +1,4 @@
+flask==2.3.3
+aiohttp==3.9.1
+gunicorn==21.2.0
+requests==2.31.0
